@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "email": "teste@gmail.com",
+      "password": "$2a$10$5q5tqjLFie20kqQNIRhQjexHXtU6d8Owr6qXB8m/9xj3ko65731sW",
+      "name": "testador",
+      "confirmPassword": "123456",
+      "id": 1
+    }
+  ]
+}
